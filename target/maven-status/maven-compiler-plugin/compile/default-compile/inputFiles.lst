@@ -1,0 +1,5 @@
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/TemperatureConverter.java
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Temperature.java
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Scale.java
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/ScaleConverter.java
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/TemperatureConvertEJB.java

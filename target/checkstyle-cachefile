@@ -1,0 +1,8 @@
+#Wed Feb 21 11:45:44 JST 2024
+configuration*?=915BABE031B921AE3FE23803A700B8C024247BC4
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Temperature.java=1708483432118
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/TemperatureConverter.java=1708483432118
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/TemperatureConvertEJB.java=1708483432118
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/ScaleConverter.java=1708483432118
+/home/jpi022308/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Scale.java=1708483432118
